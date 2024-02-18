@@ -16,6 +16,8 @@ import {
   useWindowHeight,
 } from "@react-hook/window-size";
 
+type Props = {};
+
 type pageType = {
   title: string;
   url: string;
